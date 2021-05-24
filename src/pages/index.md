@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: My name is Vova
 image: /img/img_20190511_223158.jpg
 heading: My name is Vova
 subheading: My surname is Neshchadym
